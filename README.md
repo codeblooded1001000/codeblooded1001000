@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a software developer, specializing in the backend development arena<br>👯 For the last 2 years, I have been practicing and developing projects using HTML, Handlebars(hbs), CSS, JavaScript or TypeScript, Node.js, Express.js, React.js, C++, Java, etc.<br>🤝 I’m currently a backend developer intern at Prodo. I’m hands-on in all stages of the backend development cycle, from planning and integrating APIs to developing a robust backend application<br>🌱 No two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
+🔭 I am a software developer, specializing in the backend development arena<br>👯 For the last 2 years, I have been practicing and developing projects using HTML, Handlebars(hbs), CSS, JavaScript or TypeScript, Node.js, Express.js, React.js, C++, Java, etc.<br>🤝 I’m hands-on in all stages of the backend development cycle, from planning and integrating APIs to developing a robust backend application<br>🌱 No two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
 
 
 ## 🌐 Socials:
