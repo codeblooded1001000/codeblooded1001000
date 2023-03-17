@@ -13,10 +13,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeblooded1001000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeblooded1001000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Pushpander's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=codeblooded1001000&theme=react-dark)](https://github.com/literalEval)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codeblooded1001000&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=codeblooded1001000e&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
